@@ -1,6 +1,30 @@
 body {
-  background-color: #191a1b;
+  background-color: black;
   color:white;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.homepage{
+  font-size:xx-large;
+  text-align: left;
+}
+.source{
+  font-size:xx-large;
+  text-align: center;
+}
+
+p {
+  margin: auto;
+}
+
+div{
+  background-color: #191a1b;
+  background-size: cover;
+  shape-margin:auto;
+}
+
+.recipes{
+  font-size:xx-large;
 }
 
 img {
