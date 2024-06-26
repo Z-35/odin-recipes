@@ -1,3 +1,11 @@
+*{
+  /* outline: 2px solid red; */
+  margin:1%;
+  border-radius: 5%;
+  padding: .1%;
+  box-sizing: border-box;
+}
+
 body {
   background-color: rgb(32, 32, 32);
   color:rgb(219, 219, 219);
@@ -25,6 +33,9 @@ div{
 
 .recipes{
   font-size:xx-large;
+  margin:0%;
+  margin-left:0%;
+  padding:2%;
 }
 
 img {
